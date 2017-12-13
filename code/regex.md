@@ -1,4 +1,7 @@
-#Cách viết regex.
+1. Regex với grep
+![alt text](https://viblo.asia/uploads/eab2c004-9fee-4804-a921-8e41ee2076e3.png)
+
+2. Cách viết regex.
 
 + Kí tự thường
 
@@ -32,8 +35,6 @@
 | 17  | /         | Bắt đầu hoặc kết thúc chuỗi regex                                                 |                                                                                               |
 | 18  | ｜        | Sủ dụng tương đương phép or                                                       | Hay dùng trong cặp ngặc tròn                                                                  |
 | 19  | \         | Biểu diễn một kí tự ngay sau nó từ kí tự đặc biệt thành kí tự thường và ngược lại | VD: \b sẽ trở thành như mình nói ở trên, * sẽ trở thành kí tự * chứ không phải số lần lặp nữa |
-| 12  | \W        | Kí tự không phải chữ                                                              | Thay thế cho [^\w]                                                                            |
-| 13  | \b        | Ký tự thuộc a-z hoặc A-Z hoặc 0-9 hoặc _                                          | Thay thế cho [a-zA-Z0-9_]                                                                     |
 
 + Lặp
 
