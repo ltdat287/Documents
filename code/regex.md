@@ -1,7 +1,7 @@
-1. Regex với grep
+## 1. Regex với grep
 ![alt text](https://viblo.asia/uploads/eab2c004-9fee-4804-a921-8e41ee2076e3.png)
 
-2. Cách viết regex.
+## 2. Cách viết regex.
 
 + Kí tự thường
 
